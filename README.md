@@ -35,7 +35,7 @@ entre otras herramientas como trello para la organizacion de tareas del equipo, 
 
 ### Me puedes contactar por!
 Linkedin: https://www.linkedin.com/in/andreslobo25/
-Correo: andres.lobolugo25@gmail.com.com
+Correo: andres.lobolugo25@gmail.com
 
 
 <!--
