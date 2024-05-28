@@ -1,4 +1,4 @@
-### Hola!👋 mi nombre es Andrés Lobo
+### Hi!👋 my name is Andrés Lobo
 I am also called skol25 on GitHub.
 
 ### ¿who i am?
