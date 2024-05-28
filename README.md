@@ -1,21 +1,21 @@
 ### Hola!👋 mi nombre es Andrés Lobo
-también me llamo skol25 en GitHub
+I am also called skol25 on GitHub.
 
-### ¿Quien soy?
-soy un programador fullstack con mas experiencia por ahora en el front-end.
+### ¿who i am?
+I am a full-stack developer with 3 years of experience.
 
-Desde que entre al mundo de la programación empezando como primer lenguaje c++, vi que existian otras ramas de la programación como el desarrollo web y hasta ahora no he parado de aprender. 
+Since I entered the world of programming, starting with C++ as my first language, I saw that there were other branches of programming, such as web development, and I haven't stopped learning since.
 
-### ¿Que hago?
-Actualmente me encuentro realizando proyectos de manera individual ya sea para porbar nuevas tecnologias o realizando proyectos para otras personas como freelancer ya que de esta manera puedo desarrollar habilidades que me fasciliten la solucion de problemas hasta que encuentre un trabajo en el area de la programacion web donde aplicar los conocimientos y seguir aprendiendo.
+### ¿What do i do now?
+Currently, I am working on projects individually, either to try out new technologies or to do projects for other people as a freelancer. This way, I can develop skills that facilitate problem-solving until I find a job in web development where I can apply my knowledge and continue learning.
 
-### ¿A donde me dirijo ?
-Mi objetivo es impactar en cada lugar que trabaje para asi tener una buena cantidad de experiencia para en un futuro poder desarrollar mis propias tecnologias 
+### Where am I heading?
+My goal is to make an impact in every place I work, so I can gain a significant amount of experience and eventually develop my own technologies in the future.
 
-### ¿Que tecnologias uso?
-Desde que me inicie en la programacion web no he parado de aprender lenguajes y tecnologias que actualmente uso
+### What technologies do I use?
+Since I started in web programming, I haven't stopped learning languages and technologies that I currently use.
 
-como:
+like:
   -javaScript
   -TypeScript
   -Node.js
@@ -31,11 +31,11 @@ como:
   -CSS
   -SASS
   
-entre otras herramientas como trello para la organizacion de tareas del equipo, Figma para el diseño visual de una pagina web, la mayoria de estas las pude aprender gracias al Bootcamp de Henry donde pude tambien desarrollar mis habilidades y emplearlas en un equipo de trabajo 
+Among other tools, I use Trello for team task organization and Figma for the visual design of a web page. I was able to learn most of these tools thanks to the Henry Bootcamp, where I also developed my skills and applied them in a team environment.
 
-### Me puedes contactar por!
+### You can contact me through!
 Linkedin: https://www.linkedin.com/in/andreslobo25/
-Correo: andres.lobolugo25@gmail.com
+Mail: andres.lobolugo25@gmail.com
 
 
 <!--
